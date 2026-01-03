@@ -1,8 +1,0 @@
-streamlit
-python-telegram-bot
-pdfplumber
-pytesseract
-pillow
-openai
-python-docx
-reportlab
